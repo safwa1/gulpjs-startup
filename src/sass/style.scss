@@ -1,0 +1,8 @@
+@use "./components/global";
+@use "./components/header";
+@use "./components/footer";
+
+main {
+    width: 100%;
+    height: 500px;
+}
