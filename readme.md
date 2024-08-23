@@ -82,6 +82,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-```
-
-This should ensure that the directory structure is displayed correctly in the README file.
