@@ -16,8 +16,8 @@ This project is a simple setup to use Gulp.js for automating tasks such as compi
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/gulp-startup-project.git
-    cd gulp-startup-project
+    git clone https://github.com/safwa1/gulpjs-startup.git
+    cd gulpjs-startup
     ```
 
 2. **Install dependencies:**
