@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "init": "node init.js"
   },
   "author": "Safwan Abdulghani",
   "license": "ISC",

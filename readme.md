@@ -24,6 +24,7 @@ This project is a simple setup to use Gulp.js for automating tasks such as compi
 
     ```sh
     npm install
+    npm run init # run it just once after install dependencies
     ```
 
 ## Usage
@@ -31,7 +32,7 @@ This project is a simple setup to use Gulp.js for automating tasks such as compi
 1. **Run the default Gulp task:**
 
     ```sh
-    npm start
+    npm run start
     ```
 
     This will build the project and start a local server with BrowserSync. The server will automatically reload when changes are made to the source files.
