@@ -24,7 +24,7 @@ This project is a simple setup to use Gulp.js for automating tasks such as compi
 
     ```sh
     npm install
-    npm run init # run it just once after install dependencies
+    npm run init # run it just once after installing dependencies
     ```
 
 ## Usage
